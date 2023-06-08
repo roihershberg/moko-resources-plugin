@@ -36,6 +36,10 @@ To keep everything working, do not remove `<!-- ... -->` sections.
   Download the [latest release](https://github.com/roihershberg/moko-resources-plugin/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
+  
+## License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3. See `LICENSE` in root of project.
 
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
