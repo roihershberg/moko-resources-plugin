@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# moko-resources-plugin Changelog
+# Moko Resources Plugin Changelog
 
 ## [Unreleased]
 ### Added

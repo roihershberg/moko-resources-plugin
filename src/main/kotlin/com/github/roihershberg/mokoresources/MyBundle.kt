@@ -1,4 +1,4 @@
-package com.github.roihershberg.mokoresourcesplugin
+package com.github.roihershberg.mokoresources
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
