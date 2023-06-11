@@ -43,7 +43,7 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3. See [LI
 
 Most of the code is copied and modified from the [android plugin](https://github.com/JetBrains/android) under the
 Apache License, Version 2.0, see [third-party-licenses/APACHE-2.0](third-party-licenses/APACHE-2.0) from root of project.
-Files which were copied and/or modified will have a comment in the top of the file stating that.
+Files which were copied and modified or just copied will have a comment in the top of the file stating that.
 
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
